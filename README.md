@@ -1,4 +1,3 @@
-### Hi there 👋
 ![162008029-bf8dc250-e8aa-419e-906a-a19abd1a270f](https://user-images.githubusercontent.com/60244854/162485349-1367dbf2-e32b-40b2-a317-352ae936c7d5.jpg)
 
 <!--
