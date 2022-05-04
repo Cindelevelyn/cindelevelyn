@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/cindelevelyn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cindelevelyn&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cindelevelyn&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img alt="Cindel-pic" height="180" src="https://user-images.githubusercontent.com/60244854/162501912-b11d2c85-5bfc-4179-9256-75dcdc3cd5ae.png">
 </div>
 
