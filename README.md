@@ -8,9 +8,7 @@
 
  <div align="center">
   <h3>I'm an UX/UI designer and frontend developer.</h3>
-  <img align="center" alt="Cindel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cindel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cindel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,js,r,react,tailwind,ts,figma)](https://skills.thijs.gg)
 </div>
 
   ##
