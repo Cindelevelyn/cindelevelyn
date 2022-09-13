@@ -9,7 +9,7 @@
  <div align="center">
   <h3>I'm an UX/UI designer and frontend developer.</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,r,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,r,figma&theme=light" />
   </a>
 </div>
 
