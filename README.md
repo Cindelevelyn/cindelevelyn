@@ -8,7 +8,9 @@
 
  <div align="center">
   <h3>I'm an UX/UI designer and frontend developer.</h3>
-   [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,r,react,tailwind,ts,figma&theme=light)](https://skills.thijs.gg)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,r,react,tailwind,ts,figma&theme=light" />
+  </a>
 </div>
 
   ##
