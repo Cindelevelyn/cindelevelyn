@@ -1,7 +1,7 @@
 
 
 
-<img align="right" width=33% src="https://github.com/Cindelevelyn/cindelevelyn/assets/60244854/fbf6d781-7719-4892-8109-e71998ff1b02"/>
+<img align="right" width=38% src="https://github.com/Cindelevelyn/cindelevelyn/assets/60244854/fbf6d781-7719-4892-8109-e71998ff1b02"/>
 <div align="left">
 
 > [!NOTE]  
