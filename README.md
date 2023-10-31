@@ -12,7 +12,7 @@
 
 I'm Cindel, a 23-year-old computer engineering enthusiast with a passion for web development (front-end) and UX/UI design.
 
-- 🎓 Education: Computer Engineering Graduate 🎯
+- 🎓 Education: Computer Engineering at IFSULDEMINAS
   
 - 🏢 I'm currently working at **A Recreativa** and as a freelancer.
   
