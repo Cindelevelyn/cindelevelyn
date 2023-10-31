@@ -10,7 +10,7 @@
   ### 😊 Good to see you here!
 
 
-I'm Cindel, a 23-year-old computer engineering enthusiast with a passion for web development (front-end) and UX/UI design.
+I'm Cindel, a 23-year-old computer engineering enthusiast with a passion for web development and UX/UI design.
 
 - 🎓 Education: Computer Engineering at IFSULDEMINAS
   
