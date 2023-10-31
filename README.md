@@ -1,22 +1,34 @@
-<h1 align="center">Hello, World!👋</h1>
 
-<div align="center">
-  <a href="https://github.com/cindelevelyn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cindelevelyn&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img alt="Cindel-pic" height="180" src="https://user-images.githubusercontent.com/60244854/162501912-b11d2c85-5bfc-4179-9256-75dcdc3cd5ae.png">
-</div>
 
- <div align="center">
-  <h3>I'm an UX/UI designer and frontend developer.</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,r,figma&theme=light" />
-  </a>
-</div>
 
-  ##
+<img align="right" width=33% src="https://github.com/Cindelevelyn/cindelevelyn/assets/60244854/fbf6d781-7719-4892-8109-e71998ff1b02"/>
+<div align="left">
+
+> [!NOTE]  
+> 🎶 This profile is for those who always have the perfect playlist for coding.
+
+  ### 😊 Good to see you here!
+
+
+I'm Cindel, a 23-year-old computer engineering enthusiast with a passion for web development (front-end) and UX/UI design.
+
+- 🎓 Education: Computer Engineering Graduate 🎯
   
-<div align="center"> 
-  <a  href="https://www.instagram.com/cindel.exe/" target="_blank"><img width="22px" style="margin:1%;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"></a>
-  <a href = "mailto:cindelevelyn@gmail.com"><img width="22px" style="margin:1%;" src="https://simpleicons.org/icons/gmail.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cindelsousa/" target="_blank"><img width="22px" style="margin:1%;" src="https://simpleicons.org/icons/linkedin.svg" target="_blank"></a> 
+- 🏢 I'm currently working at **A Recreativa** and as a freelancer.
+  
+- ⚙️ I use daily: `.ts`, `.tsx`, `.html`, `.css`.
+
+- 🖌️ I'm always keeping an eye on trends in UX/UI design.
+
+- 🎨 I have a strong knowledge of Figma, Photoshop, Adobe Illustrator, and others.
+
+- 👩‍💻 I'm passionate about competitive programming.
+
+- 🐈‍⬛ Loving cats is my Roman Empire.
+
+### ✨ Connect with me
+
+<a href="https://www.instagram.com/cindel.exe" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" alt="https://www.instagram.com/cindel.exe" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/cindelsousa" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="https://www.linkedin.com/in/cindelsousa" height="35" width="35" /></a>
+<a href="https://www.behance.net/cindelsousa" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="https://www.behance.net/cindelsousa" height="35" width="35" /></a>
 </div>
