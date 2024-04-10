@@ -16,7 +16,7 @@ I'm Cindel, a 23yo computer engineer with a passion for web development and UX/U
   
 - 🏢 I'm currently working at **IAtrix** and as a freelancer.
   
-- ⚙️ I use daily: `.ts`, `.tsx`, `.html`, `.css`.
+- ⚙️ I use daily: `.ts`, `.tsx`, `.cs`, `.html`, `.css`.
 
 - 🖌️ I'm always keeping an eye on trends in UX/UI design.
 
