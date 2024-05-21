@@ -14,7 +14,7 @@ I'm Cindel, a 23yo computer engineer with a passion for web development and UX/U
 
 - 🎓 Education: Computer Engineering at IFSULDEMINAS
   
-- 🏢 I'm currently working at **IAtrix** and as a freelancer.
+- 🏢 I'm currently working at **Blocks** and as a freelancer.
   
 - ⚙️ I use daily: `.ts`, `.tsx`, `.cs`, `.html`, `.css`.
 
