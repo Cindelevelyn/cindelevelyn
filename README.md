@@ -6,7 +6,7 @@
   ### 😊 Good to see you here!
 
 
-I'm Cindel, a 23yo computer engineer with a passion for web development and UX/UI design.
+I'm Cindel, a 24yo computer engineer with a passion for web development and UX/UI design.
 
 - 🎓 Education: Computer Engineering at IFSULDEMINAS
   
