@@ -22,7 +22,7 @@ I'm Cindel, a 24yo computer engineer with a passion for web development and UX/U
 
 - 🐈‍⬛ Loving cats is my Roman Empire.
 
-- 💻 See my <a href="https://cindelevelyn.vercel.app">Portfolio</a>
+- 💻 See my <a href="https://cindelevelyn.vercel.app" target="_blank">Portfolio</a>
 
 ### ✨ Connect with me
 
