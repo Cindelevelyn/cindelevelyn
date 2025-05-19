@@ -8,7 +8,7 @@
 
 I'm Cindel, a 24yo computer engineer with a passion for web development and UX/UI design.
 
-- 🎓 Education: Computer Engineering at IFSULDEMINAS
+- 🎓 Computer Engineering at IFSULDEMINAS
   
 - 🏢 I'm currently working at **Blocks Revit** as front-end developer and as a freelancer.
   
